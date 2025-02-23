@@ -28,3 +28,45 @@ This project involves the development of an interactive platform that simulates 
     ```
 
 2. Click on the generated link to access the platform.
+
+## **Feature Demonstrations**
+
+### **Portfolio View**
+The **portfolio page** provides a **comprehensive overview** of **current holdings**, **cash balance**, and **total portfolio value**.
+
+![Portfolio View](sample_stock_portfolio.png)
+
+---
+
+### **Add Cash**
+The **add cash feature** allows users to **increase their portfolio balance**, enabling **more trading opportunities**.
+
+![Add Cash](sample_add_cash.png)
+
+---
+
+### **Buy Stocks**
+The **buy feature** provides a **simple interface** to **purchase shares** of **publicly traded companies** using their **ticker symbols**.
+
+![Buy Stocks](sample_stock_buy.png)
+
+---
+
+### **Get Stock Quote**
+The **quote feature** displays the **current price** of a **selected stock**, offering **real-time market insights**.
+
+![Get Stock Quote](sample_stock_quote.png)
+
+---
+
+### **Sell Stocks**
+The **sell feature** allows users to **select stocks** from their **portfolio** and **sell shares** easily.
+
+![Sell Stocks](sample_stock_sell.png)
+
+---
+
+### **Transaction History**
+The **transaction history page** logs **all trades** and **cash transactions**, providing **full transparency**.
+
+![Transaction History](sample_transaction_history.png)
